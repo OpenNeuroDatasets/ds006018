@@ -31,6 +31,8 @@ This dataset is licensed under CC0.
 
 # References
 
+Isbell, E., Peters, A. N., Richardson, D. M., & Rodas De León, N. E. (2025). Cognitive electrophysiology in socioeconomic context in adulthood. Scientific Data, 12(1), 1–9. https://doi.org/10.1038/s41597-025-05209-z
+
 Isbell, E., De León, N. E. R., & Richardson, D. M. (2024). Childhood family socioeconomic status is linked to adult brain electrophysiology. PloS One, 19(8), e0307406.
 
 Isbell, E., De León, N. E. R. & Richardson, D. M. Childhood family socioeconomic status is linked to adult brain electrophysiology - accompanying analytic data and code. OSF https://doi.org/10.17605/osf.io/43H75 (2024).
